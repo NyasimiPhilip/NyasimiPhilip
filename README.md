@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="100%" height="auto" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+<img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100%" height="auto" frameBorder="8" class="giphy-embed" allowFullScreen/>
+  
 </p>
 <h1 align="center" style="color: orange;">Hi 👋, I'm Nyasimi Philip</h1>
 

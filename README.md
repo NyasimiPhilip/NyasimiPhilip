@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
-  <img width="45%" height="auto" src="https://i.imgur.com/EXAMPLE.gif" />
+    <img width="45%" height="auto" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
 </p>
 <h1 align="center">Hi 👋, I'm Nyasimi Philip</h1>
 <h3 align="center">A passionate developer </h3>

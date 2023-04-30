@@ -2,11 +2,6 @@
     <img width="70%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Nyasimi Philip</h1>
-<h3 align="center">A passionate developer </h3>
-
-#💫 About Me:
-🌱 I’m currently learning ...
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_enwai_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nyasimi0) 

@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="auto" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img width="100%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Nyasimi Philip</h1>
 

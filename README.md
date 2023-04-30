@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="45%" height="auto" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
+    <img width="45%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Nyasimi Philip</h1>
 <h3 align="center">A passionate developer </h3>
@@ -7,14 +7,11 @@
 <script>
   // Load the GIF after the page has finished loading
   window.addEventListener('load', function() {
-    var gif = document.querySelector('img[src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"]');
+    var gif = document.querySelector('img[src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"]');
     gif.src = gif.src; // Reload the image to start the animation
   });
 </script>
-
-
-<br>
-<br> 
+ 
 #💫 About Me:
 🌱 I’m currently learning ...
 

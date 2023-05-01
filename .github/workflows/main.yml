@@ -1,7 +1,7 @@
 name: Update Commits Data for Snake
 
 on:
-  # run automatically every day at 8:00
+
   schedule:
     - cron: "0 */2 * * *"
   

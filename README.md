@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100%" height="auto" frameBorder="8" class="giphy-embed" allowFullScreen/>
   
 </p>
-<h1 align="center" style="color: orange;">Hi 👋, I'm Nyasimi Philip</h1>
+<h1 align="center" ">Hi 👋, I'm Nyasimi Philip</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_enwai_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nyasimi0) 
@@ -15,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img alt="Snake animation" src="https://github.com/NyasimiPhilip/NyasimiPhilip/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>

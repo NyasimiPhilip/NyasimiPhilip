@@ -14,6 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NyasimiPhilip&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+<!--START_SECTION:snake-->
 ![Snake animation](https://github.com/NyasimiPhilip/NyasimiPhilip/blob/output/github-contribution-grid-snake.svg)
-
+<!--END_SECTION:snake-->
+  

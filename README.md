@@ -16,4 +16,3 @@
 
 
 
-  ![Snake animation](https://github.com/NyasimiPhilip/NyasimiPhilip/blob/output/github-contribution-grid-snake.svg)

@@ -7,7 +7,9 @@
   <h1 style="margin-top: 30px;">Hi 👋, I'm Nyasimi Philip</h1>
 
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
-<img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy"  width = 100%/>
+<img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy"  display: flex;
+  justify-content: space-between;
+  align-items: centerwidth = 100%/>
 
 
 

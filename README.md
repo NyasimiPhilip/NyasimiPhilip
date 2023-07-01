@@ -7,7 +7,7 @@
   <h1 style="margin-top: 30px;">Hi 👋, I'm Nyasimi Philip</h1>
 
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
- <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy" />
+ <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy" width="480" height="426" frameBorder="0" />
 
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=  NyasimiPhilip&label=Profile%20views&color=0e75b6&style=flat" alt="NyasimiPhilip" /> </p>

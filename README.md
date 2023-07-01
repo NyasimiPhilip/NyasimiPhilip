@@ -25,7 +25,7 @@
 
   <h2 style="margin-top: 30px;">💻 Tech Stack:</h2>
   <div style="margin-top: 30px; display: flex; justify-content: center; flex-wrap: wrap;">
-   <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C">
+
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c-%23000000.svg?style=plastic&logo=c&logoColor=white" alt="C">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/css3-%23000000.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c++-%23000000.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -38,14 +38,14 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Google%20Cloud-%23000000.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%23a4c639" alt="Android">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white" alt="iOS">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=%23a4c639" alt="Android">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/IOS-%23000000.svg?style=plastic&logo=apple&logoColor=white" alt="iOS">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django REST">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular-%23000000.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular.js-%23000000.svg?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js">
 
   </div>
 </body>

@@ -5,7 +5,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center;">
 <div style="text-align: center;">
-   <h1 style="margin-top: 30px;">Hi 👋, I'm Nyasimi Philip</h1>
+   <h1 style="margin-top: 30px;">Hi 👋<br> I'm Nyasimi Philip</h1>
 </div>
 
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">

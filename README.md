@@ -4,7 +4,7 @@
 
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center;">
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align: center; height: 100vh;">
    <h1>Hello👋<br> I'm Nyasimi Philip</h1>
 </div>
 

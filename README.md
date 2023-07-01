@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100%" height="auto" frameBorder="8" class="giphy-embed" allowFullScreen/>
+  <iframe src="https://giphy.com/embed/lBm4rgtyIPJmywXzLW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/processing-coding-proc-lBm4rgtyIPJmywXzLW">via GIPHY</a></p>
+
   
 </p>
 <h1 align="center" ">Hi 👋, I'm Nyasimi Philip</h1>

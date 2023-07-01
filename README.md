@@ -12,7 +12,7 @@
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
 <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy" width="1000" height="500" frameBorder="0" />
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=  NyasimiPhilip&label=Profile%20views&style=flat" alt="NyasimiPhilip" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=  NyasimiPhilip&label=Profile%20views&style=flat" filter: invert(100%); alt="NyasimiPhilip" /> </p>
   </div>
 
   <div style="margin-top: 30px; display: flex; justify-content: center;">

@@ -38,7 +38,7 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Google%20Cloud-%23000000.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=%23a4c639" alt="Android">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=%23000000" alt="Android">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/IOS-%23000000.svg?style=plastic&logo=apple&logoColor=white" alt="iOS">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">

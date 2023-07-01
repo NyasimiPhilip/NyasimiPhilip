@@ -16,10 +16,10 @@
 
   <div style="margin-top: 30px; display: flex; justify-content: center;">
     <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
     <a style="margin: 0 10px;" href="https://twitter.com/Nyasimi0">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
   </div>
 

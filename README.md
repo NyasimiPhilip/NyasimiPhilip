@@ -31,7 +31,7 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c++-%23000000.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c%23-%23000000.svg?style=plastic&logo=c-sharp&logoColor=white" alt="C#">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/html5-%23000000.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/python-000000?style=plastic&logo=python&logoColor=white" alt="Python">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/AWS-%23000000.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/azure-%23000000.svg?style=plastic&logo=azure-devops&logoColor=white" alt="Azure">

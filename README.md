@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
+
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center;">
   <h1 style="margin-top: 30px;">Hi 👋, I'm Nyasimi Philip</h1>

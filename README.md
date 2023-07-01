@@ -40,9 +40,7 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=white" alt="Android">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/IOS-%23000000.svg?style=plastic&logo=apple&logoColor=white" alt="iOS">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django REST">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular-%23000000.svg?style=plastic&logo=angular&logoColor=white" alt="Angular">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/angular.js-%23000000.svg?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js">

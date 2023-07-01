@@ -4,9 +4,10 @@
 
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center;">
-<div style="text-align: center;">
-   <h1 style="margin-top: 30px;">Hi 👋<br> I'm Nyasimi Philip</h1>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+   <h1>Hello👋<br> I'm Nyasimi Philip</h1>
 </div>
+
 
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
 <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" alt="Animated GIF from Giphy" width="1000" height="500" frameBorder="0" />

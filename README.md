@@ -3,7 +3,9 @@
    <h1>Hello👋<br> I'm Nyasimi Philip</h1>
 </div>
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=  NyasimiPhilip&label=Profile%20views&style=flat" filter: invert(100%); alt="NyasimiPhilip" /> </p>
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NyasimiPhilip&label=Profile%20views&style=flat" alt="NyasimiPhilip" style="filter: grayscale(100%);" />
+</p>
   </div>
 <h3>Lets connect</h3>
   <div style="margin-top: 30px; display: flex; justify-content: center;">

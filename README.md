@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
   </div>
-  <p align="center">
+  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&count_private=true&theme=tokyonight&line_height=52">
 </p>
 

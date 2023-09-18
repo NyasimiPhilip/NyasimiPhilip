@@ -33,7 +33,6 @@
   </div>
    <br> 
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&count_private=true&theme=tokyonight&line_height=52" alt="Top Languages" style="filter: grayscale(100%);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&layout=compact" alt="Top Languages" style="filter: invert(100%);" />
 </p>
-
 </body>

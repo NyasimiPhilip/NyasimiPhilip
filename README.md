@@ -29,7 +29,8 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
   </div>
-    <p align="left">
+   <br> 
+   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&count_private=true&theme=tokyonight&line_height=52">
 </p>
 </body>

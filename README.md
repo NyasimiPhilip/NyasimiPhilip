@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
 <body style="font-family: Arial, sans-serif; text-align: center;">
 <div style="display: flex; justify-content: center; align: center; height: 100vh;">
    <h1>Hello👋<br> I'm Nyasimi Philip</h1>
 </div>
-
-
   <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
-
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=  NyasimiPhilip&label=Profile%20views&style=flat" filter: invert(100%); alt="NyasimiPhilip" /> </p>
   </div>
-
+<h3>Lets connect</h3>
   <div style="margin-top: 30px; display: flex; justify-content: center;">
     <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">
       <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -25,10 +17,8 @@
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&count_private=true&theme=tokyonight&line_height=52">
 </p>
-
-  <h2 style="margin-top: 30px;">Interests:</h2>
+  <h2 style="margin-top: 30px;">Tech stack:</h2>
   <div style="margin-top: 30px; display: flex; justify-content: center; flex-wrap: wrap;">
-
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c-%23000000.svg?style=plastic&logo=c&logoColor=white" alt="C">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/css3-%23000000.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/c++-%23000000.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">

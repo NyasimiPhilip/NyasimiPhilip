@@ -22,6 +22,9 @@
       <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
   </div>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&count_private=true&theme=tokyonight&line_height=52">
+</p>
 
   <h2 style="margin-top: 30px;">💻 Tech Stack:</h2>
   <div style="margin-top: 30px; display: flex; justify-content: center; flex-wrap: wrap;">

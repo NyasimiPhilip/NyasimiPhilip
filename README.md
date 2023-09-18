@@ -32,7 +32,8 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
   </div>
    <br> 
-  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&layout=compact&theme=tranparent" alt="Top Languages"" />
+   <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&layout=compact&theme=tokyonight&bg_color=000000" alt="Top Languages" style="filter: invert(100%);" />
 </p>
+
 </body>

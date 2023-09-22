@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=NyasimiPhilip&label=Profile%20views&style=flat" alt="NyasimiPhilip" style="filter: grayscale(100%);" />
 </p>
   </div>
-<h3>Lets connect</h3>
   <div style="margin-top: 30px; display: flex; justify-content: center;">
     <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">
       <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white" alt="Instagram">

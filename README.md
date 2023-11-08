@@ -23,10 +23,7 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/html5-%23000000.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/python-000000?style=plastic&logo=python&logoColor=white" alt="Python">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=white" alt="Netlify">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/vuejs-%23000000.svg?style=plastic&logo=vuedotjs&logoColor=white" alt="Vue.js">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=white" alt="Android">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/IOS-%23000000.svg?style=plastic&logo=apple&logoColor=white" alt="iOS">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
   </div>

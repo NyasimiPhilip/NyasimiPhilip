@@ -8,8 +8,7 @@
                 style="filter: grayscale(100%);" />
         </p>
     </div>
-    <div style="margin-top: 30px; display: flex; justify-content: center;">
-        <a style="margin: 0 10px;" href="https://www.nyasimiphilip.info/">Visit my website</a>
+    <div style="margin-top: 30px; display: flex; justify-content: center;">       
         <br />        
         <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">
             <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white"

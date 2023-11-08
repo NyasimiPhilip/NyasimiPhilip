@@ -24,8 +24,6 @@
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/python-000000?style=plastic&logo=python&logoColor=white" alt="Python">
 <img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/android-%23000000.svg?style=plastic&logo=android&logoColor=white" alt="Android">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/django-%23000000.svg?style=plastic&logo=django&logoColor=white" alt="Django">
-<img style="margin: 5px; filter: invert(100%);" src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda">
   </div>
    <br> 
    <!--START_SECTION:waka--><!--END_SECTION:waka-->

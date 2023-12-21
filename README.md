@@ -8,7 +8,7 @@
                 style="filter: grayscale(100%);" />
         </p>
     </div>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&langs_count=8)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasimiPhilip&langs_count=15)
     <div style="margin-top: 30px; display: flex; justify-content: center;">       
         <br />        
         <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">

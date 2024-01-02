@@ -8,7 +8,7 @@
                 style="filter: grayscale(100%);" />
         </p>
         <p align="right">
-            [![wakatime](https://wakatime.com/badge/user/f26feb8b-f7c0-475f-9678-967e21034a6c.svg)](https://wakatime.com/@f26feb8b-f7c0-475f-9678-967e21034a6c
+            <a href="https://wakatime.com/@f26feb8b-f7c0-475f-9678-967e21034a6c"><img src="https://wakatime.com/badge/user/f26feb8b-f7c0-475f-9678-967e21034a6c.svg" alt="Wakatime Badge" /></a>
         </p>
     </div>
        <div style="margin-top: 30px; display: flex; justify-content: center;">       

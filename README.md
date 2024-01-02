@@ -7,6 +7,9 @@
             <img src="https://komarev.com/ghpvc/?username=NyasimiPhilip&label=Profile%20views&style=flat" alt="NyasimiPhilip"
                 style="filter: grayscale(100%);" />
         </p>
+        <p align="right">
+            [![wakatime](https://wakatime.com/badge/user/f26feb8b-f7c0-475f-9678-967e21034a6c.svg)](https://wakatime.com/@f26feb8b-f7c0-475f-9678-967e21034a6c
+        </p>
     </div>
        <div style="margin-top: 30px; display: flex; justify-content: center;">       
         <br />        

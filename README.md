@@ -32,6 +32,9 @@
             src="https://img.shields.io/badge/html5-%23000000.svg?style=plastic&logo=html5&logoColor=white"
             alt="HTML5">
         <img style="margin: 5px; filter: invert(100%);"
+            src="https://img.shields.io/badge/kotlin-%23000000.svg?style=plastic&logo=html5&logoColor=white"
+            alt="Kotlin">
+        <img style="margin: 5px; filter: invert(100%);"
             src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white"
             alt="JavaScript">
         <img style="margin: 5px; filter: invert(100%);"

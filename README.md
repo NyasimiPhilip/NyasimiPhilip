@@ -22,9 +22,7 @@
     <h2 style="margin-top: 30px;">Tech stack:</h2>
     <div style="margin-top: 30px; display: flex; justify-content: center; flex-wrap: wrap;">
         <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/c-%23000000.svg?style=plastic&logo=c&logoColor=white" alt="C">
-        <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/css3-%23000000.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">     
+            src="https://img.shields.io/badge/c-%23000000.svg?style=plastic&logo=c&logoColor=white" alt="C">      
         <img style="margin: 5px; filter: invert(100%);"
             src="https://img.shields.io/badge/python-000000?style=plastic&logo=python&logoColor=white" alt="Python">
         <img style="margin: 5px; filter: invert(100%);"

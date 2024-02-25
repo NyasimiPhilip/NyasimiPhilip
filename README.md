@@ -24,16 +24,7 @@
         <img style="margin: 5px; filter: invert(100%);"
             src="https://img.shields.io/badge/c-%23000000.svg?style=plastic&logo=c&logoColor=white" alt="C">
         <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/css3-%23000000.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
-        <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/c++-%23000000.svg?style=plastic&logo=c%2B%2B&logoColor=white"
-            alt="C++">
-        <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/html5-%23000000.svg?style=plastic&logo=html5&logoColor=white"
-            alt="HTML5">      
-        <img style="margin: 5px; filter: invert(100%);"
-            src="https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white"
-            alt="JavaScript">
+            src="https://img.shields.io/badge/css3-%23000000.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">     
         <img style="margin: 5px; filter: invert(100%);"
             src="https://img.shields.io/badge/python-000000?style=plastic&logo=python&logoColor=white" alt="Python">
         <img style="margin: 5px; filter: invert(100%);"

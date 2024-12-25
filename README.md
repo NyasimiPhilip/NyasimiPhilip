@@ -10,14 +10,6 @@
     </div>
        <div style="margin-top: 30px; display: flex; justify-content: center;">       
         <br />        
-        <a style="margin: 0 10px;" href="https://instagram.com/_enwai_">
-            <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white"
-                alt="Instagram">
-        </a>
-        <a style="margin: 0 10px;" href="https://twitter.com/Nyasimi0">
-            <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white"
-                alt="Twitter">
-        </a>
     </div>
     <h2 style="margin-top: 30px;">Tech stack:</h2>
     <div style="margin-top: 30px; display: flex; justify-content: center; flex-wrap: wrap;">
